@@ -1,0 +1,8 @@
+{
+  "name": "anodio/mongo",
+  "autoload": {
+    "psr-4": {
+      "Anodio\\Mongo\\": "src/"
+    }
+  }
+}
